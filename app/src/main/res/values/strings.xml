@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Covid Tracker</string>
+    <string name="country">India</string>
+    <string name="case_Updated">Updated at 5 January,2022</string>
+    <string name="Active">Active Cases</string>
+    <string name="Total">Total Cases</string>
+    <string name="Recover">Recover Cases</string>
+    <string name="Deaths">Deaths Cases</string>
+    <string name="Case">Cases</string>
+
+    <string name="active">50000</string>
+    <string name="today_active">100</string>
+    <string name="totalCases">100100</string>
+
+
+    <string name="country_name">Country</string>
+    <string name="items_num">123</string>
+</resources>
